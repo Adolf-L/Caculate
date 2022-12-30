@@ -10,11 +10,11 @@ public struct Caculate {
         }
     }
     
-    func add(numLeft:Int, numRight:Int) -> Int {
+    public func add(numLeft:Int, numRight:Int) -> Int {
         return basic.add(numLeft: numLeft, numRight: numRight)
     }
     
-    func sub(numLeft:Int, numRight:Int) -> Int {
+    public func sub(numLeft:Int, numRight:Int) -> Int {
         return basic.add(numLeft: numLeft, numRight: numRight)
     }
 }

@@ -9,11 +9,11 @@ import Foundation
 
 class Basic {
     
-    func add(numLeft: Int, numRight: Int) -> Int {
+     func add(numLeft: Int, numRight: Int) -> Int {
         return numLeft + numRight
     }
     
-    func sub(numLeft: Int, numRight: Int) -> Int {
+     func sub(numLeft: Int, numRight: Int) -> Int {
         return numLeft - numRight
     }
     
