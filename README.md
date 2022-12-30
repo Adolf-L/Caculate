@@ -3,3 +3,4 @@
 A description of this package.
 
 this is a software testing package!
+updated calculation rule 
